@@ -1,0 +1,2 @@
+# Atmospheric-analysis-of-Abandoned-mines-using-rover
+This project aims to design a LoRa Based Wireless Rover using Arduino Uno &amp; LoRa Module. A DHT Sensor and Gas Sensor to monitor the environment GY-68 sensor along with an Ultrasonic Sensor is used to control the rover. The rover measures the mine environment parameters like Temperature, Humidity, Pressure, Gas Levels &amp; Terrain. These parameters are critical to the design, and comprehensive analysis of these parameters ensures planning and safety of the surface and underground mining activities.
